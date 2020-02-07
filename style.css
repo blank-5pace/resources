@@ -7,4 +7,5 @@
     font-size: 15vw;
     white-space: nowrap;
     overflow: hidden;
+    display: block;
 }
